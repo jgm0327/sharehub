@@ -29,6 +29,8 @@ public class Member {
 
     private String profile;
 
+    private String role;
+
     @OneToMany(fetch = FetchType.LAZY)
     private List<Board> boards;
 
