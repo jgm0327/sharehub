@@ -1,7 +1,6 @@
 package com.example.sharehub.authentication.service;
 
 import com.example.sharehub.authentication.dto.JoinDTO;
-import com.example.sharehub.member.entity.Member;
 import com.example.sharehub.member.mapper.MemberMapper;
 import com.example.sharehub.member.repository.MemberRepository;
 import com.example.sharehub.status.authentication.Join;
